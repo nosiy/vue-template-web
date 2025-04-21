@@ -1,4 +1,4 @@
-# vue-admin-noisy
+# vue-template-web
 
 ## Project setup
 ```
@@ -20,8 +20,5 @@ npm run build
 npm run lint
 ```
 
-### Lints and cry
-```
-尝试做出修改
-```
-用于默认建立模版
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
